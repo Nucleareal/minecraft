@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+cpw/
+ibxm/
+net/
+paulscode/
+fml*
+forge*
+mcp*
+Start*
